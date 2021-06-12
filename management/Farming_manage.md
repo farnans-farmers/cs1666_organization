@@ -9,7 +9,7 @@
 	* Goals:
 		1. Create game "credits" in team repo
 3. 06/16 - 06/22
-	* Manager: Wesley Miller (wam34)
+	* Manager: NAME
 	* Goals:
 		1. GOAL1
 		...
