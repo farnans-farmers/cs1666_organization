@@ -14,7 +14,7 @@
 		1. GOAL1
 		...
 4. 06/23 - 06/29
-	* Manager: NAME
+	* Manager: Kenny Meier (kem243)
 	* Goals:
 		1. GOAL1
 		...

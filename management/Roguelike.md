@@ -19,9 +19,9 @@
 		1. GOAL1
 		...
 5. 06/30 - 07/6
-	* Manager: NAME
+	* Manager: Trae Yelovich (tay31)
 	* Goals:
-		1. GOAL1
+		1. To be determined...
 		...
 6. 07/07 - 07/13
 	* Manager: REQUIRED
